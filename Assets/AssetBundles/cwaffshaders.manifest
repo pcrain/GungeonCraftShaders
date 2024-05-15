@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 502644696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fb2309db43c7c14bec562e5a0791858
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1330b8d51f6e3d145ee247ac8d5636d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/ElectroShader.shader
+- Assets/sf_noise_clouds_01.png
+- Assets/SillyShader.shader
+Dependencies: []
