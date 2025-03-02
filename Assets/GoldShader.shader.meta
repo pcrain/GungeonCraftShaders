@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d72c932de348e4941b53a78865f2383d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: eb98f4aff06b643199977e6fe27e7f47, type: 3}
+  - _PaletteTex: {fileID: 2800000, guid: 4e661d5d7afe2444ca8f9e259c8d8481, type: 3}
+  userData: 
+  assetBundleName: cwaffshaders
+  assetBundleVariant: 

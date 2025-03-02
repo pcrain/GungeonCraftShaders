@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1723315591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a239e90beed194faf6c5e39b4748bbb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6370d3f9de9eca57f523bce048404a46
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/WeaponWheel.shader
+Dependencies: []

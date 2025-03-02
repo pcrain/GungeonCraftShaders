@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 958801285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37b7b471390f84fc1c6937b9dcbe7075
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f7fda2fcdb5990d2428b9bddcc496af7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DesaturateShader.shader
+- Assets/ElectroShader.shader
+- Assets/ChromaShiftShader.shader
+- Assets/sf_noise_clouds_01.png
+- Assets/SillyShader.shader
+- Assets/vertical_gradient.png
+- Assets/DigitizeShader.shader
+- Assets/startexture_cropped.png
+- Assets/WiggleShader.shader
+- Assets/DigitizeShaderUnlit.shader
+- Assets/CosmicShader.shader
+- Assets/GoldShader.shader
+- Assets/bits.png
+- Assets/EmissiveAlphaShader.shader
+- Assets/MirageShader.shader
+- Assets/CorruptShader.shader
+Dependencies: []
