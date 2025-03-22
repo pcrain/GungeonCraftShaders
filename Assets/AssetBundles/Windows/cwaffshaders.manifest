@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1720708731
+CRC: 2078007568
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b87fbeb72cd963c2c31d91f9c0da821b
+    Hash: 31011b02d95a11a7ed518a9e02ea0c52
   TypeTreeHash:
     serializedVersion: 2
     Hash: f7fda2fcdb5990d2428b9bddcc496af7
@@ -24,9 +24,11 @@ Assets:
 - Assets/vertical_gradient.png
 - Assets/DigitizeShader.shader
 - Assets/startexture_cropped.png
+- Assets/powerdown.png
 - Assets/WiggleShader.shader
 - Assets/DigitizeShaderUnlit.shader
 - Assets/CosmicShader.shader
+- Assets/powerup.png
 - Assets/GoldShader.shader
 - Assets/bits.png
 - Assets/EmissiveAlphaShader.shader
