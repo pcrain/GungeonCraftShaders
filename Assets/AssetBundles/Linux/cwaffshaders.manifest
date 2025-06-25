@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2222872398
+CRC: 2774108968
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 11bc684f77a3cc8b7f7f5fd2e1373455
+    Hash: a25ce854673b1502a922a4f71c64994d
   TypeTreeHash:
     serializedVersion: 2
     Hash: f7fda2fcdb5990d2428b9bddcc496af7
@@ -28,6 +28,7 @@ Assets:
 - Assets/WiggleShader.shader
 - Assets/DigitizeShaderUnlit.shader
 - Assets/CosmicShader.shader
+- Assets/GlassShader.shader
 - Assets/powerup.png
 - Assets/ScreenWiggleShader-2025-03-22_12-24-24.shader
 - Assets/GoldShader.shader
