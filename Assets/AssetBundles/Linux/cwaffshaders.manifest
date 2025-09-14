@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3922919121
+CRC: 1486342061
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 60b677e9572d4f016cac1ac390bbd5fb
+    Hash: efa644050b89d7a954c0e17e88bdf341
   TypeTreeHash:
     serializedVersion: 2
     Hash: f7fda2fcdb5990d2428b9bddcc496af7
@@ -23,6 +23,7 @@ Assets:
 - Assets/SillyShader.shader
 - Assets/vertical_gradient.png
 - Assets/DigitizeShader.shader
+- Assets/ScreenHellShader.shader
 - Assets/startexture_cropped.png
 - Assets/powerdown.png
 - Assets/WiggleShader.shader
