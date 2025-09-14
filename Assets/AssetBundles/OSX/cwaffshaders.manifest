@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2603571423
+CRC: 2507992317
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 217f61d261e6c4920b4bb1f630e6dac6
+    Hash: 4846f905c4f83203d74b6986485a1c2a
   TypeTreeHash:
     serializedVersion: 2
     Hash: f7fda2fcdb5990d2428b9bddcc496af7
@@ -31,6 +31,8 @@ Assets:
 - Assets/GlassShader.shader
 - Assets/powerup.png
 - Assets/ScreenWiggleShader-2025-03-22_12-24-24.shader
+- Assets/ScreenBirthShader.shader
+- Assets/starnoise.png
 - Assets/GoldShader.shader
 - Assets/ScatterShader.shader
 - Assets/bits.png

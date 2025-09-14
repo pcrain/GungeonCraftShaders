@@ -137,8 +137,7 @@ Shader "Shader Forge/Examples/ElectroShader" {
                 float4 node_1127 = tex2D(_ShaderTex,TRANSFORM_TEX(node_3700, _ShaderTex)); // Timeshifted shader texture
                 float2 node_6001 = float2(fmod((node_5599.g+node_1127.rgb.r),1.0),_node_1043);
                 float4 _node_3668 = tex2D(_ShaderTex,TRANSFORM_TEX(node_6001, _ShaderTex));
-                float4 node_5273 = (float4(0.9,1,0.5,1)*(saturate((_node_3668.r-(1.0 - (1.0 / _Strength))))*_Strength));
-                float3 diffuseColor = ( node_8334.rgb > 0.5 ? (1.0-(1.0-2.0*(node_8334.rgb-0.5))*(1.0-node_5273)) : (2.0*node_8334.rgb*node_5273) ).rgb; // Need this for specular when using metallic
+                float3 diffuseColor = ( node_8334.rgb > 0.5 ? (1.0-(1.0-2.0*(node_8334.rgb-0.5))*(1.0-(float4(0.9,1,0.5,1)*(saturate((_node_3668.r-(1.0 - (1.0 / _Strength))))*_Strength)))) : (2.0*node_8334.rgb*(float4(0.9,1,0.5,1)*(saturate((_node_3668.r-(1.0 - (1.0 / _Strength))))*_Strength))) ).rgb; // Need this for specular when using metallic
                 diffuseColor = DiffuseAndSpecularFromMetallic( diffuseColor, specularColor, specularColor, specularMonochrome );
                 specularMonochrome = 1.0-specularMonochrome;
                 float NdotV = abs(dot( normalDirection, viewDirection ));
