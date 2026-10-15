@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3848038072
+CRC: 2849495758
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 617bc1416d0ad663954562cedb9b39dd
+    Hash: f6ea2fc40ba3002aff9a3dff469d7141
   TypeTreeHash:
     serializedVersion: 2
     Hash: f7fda2fcdb5990d2428b9bddcc496af7
@@ -22,17 +22,20 @@ Assets:
 - Assets/sf_noise_clouds_01.png
 - Assets/SillyShader.shader
 - Assets/vertical_gradient.png
+- Assets/SandstormShader.shader
 - Assets/DigitizeShader.shader
 - Assets/ScreenHellShader.shader
 - Assets/startexture_cropped.png
 - Assets/powerdown.png
 - Assets/WiggleShader.shader
 - Assets/DigitizeShaderUnlit.shader
+- Assets/graynoise.png
 - Assets/CosmicShader.shader
 - Assets/GlassShader.shader
 - Assets/powerup.png
 - Assets/ScreenWiggleShader-2025-03-22_12-24-24.shader
 - Assets/ScreenBirthShader.shader
+- Assets/RadialTimestopShader.shader
 - Assets/starnoise.png
 - Assets/GoldShader.shader
 - Assets/ScatterShader.shader
